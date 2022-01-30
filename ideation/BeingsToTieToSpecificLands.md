@@ -1,4 +1,4 @@
-Races to tie to specific lands
+Beings to tie to specific lands
 	robots/dolls/automatons
 	sentient fungi
 	slimes/jellies
